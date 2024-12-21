@@ -1,4 +1,3 @@
-FILE NAME: structure.py
 from abc import ABC, abstractmethod
 class NinjaTurtle(ABC):
     @property
